@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/Location-Rawalpindi%2FIslamabad-2ea44f?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2596BE&center=true&vCenter=true&width=600&lines=Flutter+%26+Firebase+Developer;Building+cross-platform+mobile+apps;Clean+Architecture+%7C+Offline-First+Design;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -87,9 +91,11 @@ I'm a **Computer Science graduate** from *Federal Urdu University of Arts, Scien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atifislam3&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifislam3&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atifislam3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifislam3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
+
+> If these show blank on your profile, it's the free Vercel-hosted stats API being rate-limited (common, not your repo's fault) — it usually resolves on its own within a day. If it stays broken, [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for a permanent fix.
 
 ---
 
