@@ -1,128 +1,82 @@
-&lt;h1 align="center"&gt;Hi there, I'm Atif Islam 👋&lt;/h1&gt;
-&lt;p align="center"&gt;
-  &lt;b&gt;Flutter Developer&lt;/b&gt; • &lt;b&gt;Mobile App Engineer&lt;/b&gt; • &lt;b&gt;CS Student&lt;/b&gt;
-&lt;/p&gt;
+<h1 align="center">Hi, I'm Atif Islam 👋</h1>
+<h3 align="center">Computer Science Graduate • Flutter & Firebase Developer</h3>
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:atifislam7677@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/atifislam3"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Location-Rawalpindi%2FIslamabad-2ea44f?style=for-the-badge" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2596BE&center=true&vCenter=true&width=550&lines=Cross-platform+mobile+apps+with+Flutter;Firebase+%7C+Firestore+%7C+Realtime+Database;Building+real-world+problem-solving+software" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a motivated and detail-oriented **Computer Science student** (Expected 2026) at *Federal Urdu University of Arts, Science and Technology*, passionate about building **user-centric mobile applications** that solve real-world problems.
-
-- 🔭 Currently building cross-platform apps with **Flutter** & **Firebase**
-- 🌱 Exploring **AI integration** in mobile apps (Google Gemini API)
-- 💡 Love clean architecture, offline-first design, and polished UI/UX
-- 🤝 Open to collaborating on innovative software projects
-
----
-
-## 🛠️ Tech Stack
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GetX](https://img.shields.io/badge/GetX-7C4DFF?style=flat)
-![Riverpod](https://img.shields.io/badge/Riverpod-2D9CDB?style=flat)
-
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Tools & Concepts
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat)
+- 🎓 Final-year **BSCS** student at Federal Urdu University of Arts, Science and Technology (Expected 2026)
+- 📱 Focused on **cross-platform mobile development** — Flutter, Dart, Firebase
+- 🩺 Currently building **MedCare**, a full health-management app, as my Final Year Project
+- 🌱 Also exploring algorithmic trading tools (Python, Pine Script, MQL5)
+- 📍 Based in Rawalpindi / Islamabad, Pakistan
+- 📫 Reach me at **atifislam7677@gmail.com**
 
 ---
 
-## 📱 Featured Projects
+### 🛠️ Tech Stack
 
-### 💊 MedCare — Personal Medicine Reminder & Health Records App
-&gt; A comprehensive, offline-first health companion with AI-powered wellness assistant.
-
-- **Tech:** Flutter, Firebase, Hive, GetX, Google Gemini API
-- **Features:** Complex medication scheduling, actionable push notifications, appointment tracking, health records, AI wellness assistant, adherence analytics
-- **Architecture:** Clean architecture with GetX state management & dependency injection
-- 🔗 [View Repository](https://github.com/atifislam3/personal-medicine-reminder)
-
----
-
-### 🔍 UniFind — University Lost & Found App
-&gt; A production-ready campus lost & found platform with real-time sync and admin moderation.
-
-- **Tech:** Flutter, Firebase Auth & Realtime DB, Riverpod 3.x, Hive, ImgBB API
-- **Features:** Universal secure login, real-time item sync, smart filtering, offline caching, WhatsApp integration, admin moderation dashboard
-- **Design:** Material 3 aesthetic with Hero transitions & custom typography
-- 🔗 [View Repository](https://github.com/atifislam3/uni-lost-found)
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
 
 ---
 
-### 📈 ICT Backtester Pro
-&gt; A production-grade, event-driven algorithmic backtesting engine for ICT price action concepts.
+### 📌 Featured Projects
 
-- **Tech:** Python, Pandas, NumPy, Plotly, Pydantic, Typer, Rich
-- **Features:** BOS/CHoCH/FVG pattern detection, Monte Carlo analytics, interactive HTML reports, institutional cost modeling, daily circuit breakers
-- **Architecture:** Strict event-driven `EventBus` with zero lookahead bias
-- 🔗 [View Repository](https://github.com/atifislam3/ict-backtester)
-
----
-
-### 🍽️ Mess Mate — Mess Management System
-&gt; A Django-based cafeteria management system to reduce food waste and optimize costs.
-
-- **Tech:** Python, Django, SQLite, HTML/CSS
-- **Features:** Meal skipping with deadlines, real-time headcount for managers, savings tracking, weekly menu templates
-- **Impact:** Helps students save money while enabling mess managers to prepare accurate meal quantities
-- 🔗 [View Repository](https://github.com/atifislam3/mess-mate)
-
----
-
-## 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=atifislam3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /&gt;
-  &lt;br/&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=atifislam3&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
-  &lt;br/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifislam3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
-&lt;/p&gt;
-
----
-
-## 🎓 Education & Certifications
-
-- **BSCS** — Federal Urdu University of Arts, Science and Technology *(Expected 2026)*
-- **Flutter & Firebase Development** — Udemy *(2024)*
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💊 <a href="https://github.com/atifislam3/personal-medicine-reminder">MedCare — Medicine Reminder & Health Records</a></h4>
+      <p>Cross-platform health companion app with intelligent medication scheduling, actionable push notifications, offline-first sync, and an AI wellness assistant powered by Gemini.</p>
+      <i>Flutter • Firebase • Hive • GetX • Gemini API</i>
+    </td>
+    <td width="50%">
+      <h4>📈 <a href="https://github.com/atifislam3/ict-backtester">ICT Backtester Pro</a></h4>
+      <p>Event-driven algorithmic backtesting engine that detects ICT price-action concepts (BOS, CHoCH, FVGs) with zero lookahead bias, realistic execution costs, and Monte Carlo analytics.</p>
+      <i>Python • Pandas • Plotly • Pydantic</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🔍 <a href="https://github.com/atifislam3/uni-lost-found">UniFind — Lost & Found</a></h4>
+      <p>Production-ready app helping university students report, find, and claim lost items on campus, with real-time sync, admin moderation, and WhatsApp integration.</p>
+      <i>Flutter • Riverpod • Firebase RTDB • Hive</i>
+    </td>
+    <td width="50%">
+      <h4>🍽️ <a href="https://github.com/atifislam3/mess-mate">Mess Mate</a></h4>
+      <p>Django-based mess management system letting students skip meals in advance and giving managers accurate real-time headcounts to cut food waste and costs.</p>
+      <i>Python • Django • SQLite</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💬 Languages
+### 📊 GitHub Stats
 
-- **Urdu** — Native
-- **English** — Professional Working Proficiency
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atifislam3&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atifislam3&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 🤝 Let's Connect!
+### 🤝 Let's Connect
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:atifislam7677@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email%20Me-atifislam7677@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;i&gt;Building apps that make a difference, one commit at a time. 🚀&lt;/i&gt;
-&lt;/p&gt;
+<p align="left">
+  <a href="mailto:atifislam7677@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
